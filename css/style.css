@@ -25,7 +25,9 @@
   left:50%;
   transform: translate(-50%, -50%);
   font-size: 2vw;
+  padding: 25px;
   color: white;
+  border-radius: 40px;
   background-color: rgba(192,192,192,0.2);
   font-family: 'Didact Gothic', sans-serif;
 }
