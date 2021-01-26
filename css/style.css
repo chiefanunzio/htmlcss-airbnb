@@ -8,15 +8,22 @@
   position: relative;
   height: 100vh;
   width: 100%;
-
-}
-
-.cyty-game{
-  height: 100vh;
-  width: 100%;
+  background-size: cover;
   opacity: 0.8;
   border-radius: 30px;
   border: 10px solid white;
+}
+
+.last{
+  background-image: url('../img/last-us.jpg')
+}
+
+.dead{
+  background-image: url('../img/red-dead.jpg');
+}
+
+.god{
+  background-image: url('../img/good.jpg');
 }
 
 .name{
